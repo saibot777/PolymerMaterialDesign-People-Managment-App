@@ -1,0 +1,19 @@
+{
+  "name": "Polymer",
+  "description": "",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.3"
+  },
+  "main": "",
+  "authors": [
+    "saibot777 <stefantrajkovic777@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
